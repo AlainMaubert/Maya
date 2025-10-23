@@ -8,3 +8,5 @@ Set up scene in Maya.
 
 3. Full body joint hierarchy created in Autodesk Maya 2026.2.
 Shown in four-view layout (Top, Front, Side, Perspective) with X-Ray Joints enabled to illustrate accurate anatomical alignment and symmetrical rig construction.
+
+4. Stylized character block-out with skeleton and smooth skin binding applied. Four-view layout demonstrates proportion, joint placement, and initial deformation setup.

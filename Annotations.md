@@ -10,3 +10,7 @@ Set up scene in Maya.
 Shown in four-view layout (Top, Front, Side, Perspective) with X-Ray Joints enabled to illustrate accurate anatomical alignment and symmetrical rig construction.
 
 4. Stylized character block-out with skeleton and smooth skin binding applied. Four-view layout demonstrates proportion, joint placement, and initial deformation setup.
+
+5. The character animation:
+
+Character rig demonstration rendered in slow-motion playback (Maya 2026.2, 125 fps) to highlight joint deformation and motion curves
